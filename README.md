@@ -24,4 +24,3 @@ It will include in the future, when published, a [documentation](documentation/)
 
 ## Repository license
 * [MIT license](https://opensource.org/licenses/MIT)
-etc.).
