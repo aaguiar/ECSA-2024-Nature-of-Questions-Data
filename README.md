@@ -4,7 +4,7 @@ This repository is a companion page for the following publication:
 
 > Neil B. Harrison (Utah Valley University) and Ademar Aguiar (INESC TEC, Faculdade de Engenharia da Universidade do Porto). 2024. The Nature of Questions that Arise During Software Architecture. ECSA 2024 (under review)
 
-It will contain all the material required for replicating the study, including the survey responses.
+It will contain all the material required for replicating the study, including the [survey responses](survey-about-architecture-questions-responses.xlsx).
 
 ## How to cite us
 The scientific article describing design, execution, and main results of this study is under review and it will be available later [here](https://www.google.com).<br> 
