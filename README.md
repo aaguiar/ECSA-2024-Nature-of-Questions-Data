@@ -1,4 +1,4 @@
-# The Nature of Questions that Arise During Software Architecture
+# The Nature of Questions that Arise During Software Architecture Design
 
 This repository is a companion page for the following publication:
 
